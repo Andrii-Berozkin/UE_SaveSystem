@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SaveSystem.cpp.obj": [
+			"InitializeStatics.cpp.obj",
+			"SaveActor.cpp.obj",
+			"SaveActorAndComponent.cpp.obj",
+			"SaveSceneComponent.cpp.obj",
+			"SaveObject.cpp.obj",
+			"SaveSystem.cpp.obj",
+			"InitializeStaticautomatedTest.cpp.obj"
+		],
+		"Module.SaveSystem.gen.cpp.obj": [
+			"ActorComponentRecord.gen.cpp.obj",
+			"ActorRecord.gen.cpp.obj",
+			"InitializeStatics.gen.cpp.obj",
+			"ObjectRecord.gen.cpp.obj",
+			"PrimitiveComponentRecord.gen.cpp.obj",
+			"SaveActor.gen.cpp.obj",
+			"SaveActorAndComponent.gen.cpp.obj",
+			"SaveInterface.gen.cpp.obj",
+			"SaveObject.gen.cpp.obj",
+			"SaveSceneComponent.gen.cpp.obj",
+			"SaveSystem.init.gen.cpp.obj",
+			"SceneComponentRecord.gen.cpp.obj",
+			"TestActors.gen.cpp.obj"
+		]
+	}
+}

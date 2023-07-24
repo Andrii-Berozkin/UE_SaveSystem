@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SaveSystem",
+	"Description": "Save Load System that takes care of properly serialize/deserialize objects, actors, components and at load it try find existing one or create new one.",
+	"Category": "Other",
+	"CreatedBy": "Andrii Berozkin",
+	"CreatedByURL": "https://github.com/Andrii-Berozkin",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SaveSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
